@@ -1,5 +1,7 @@
 # drop-shadows
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/satya164/drop-shadows.svg)](https://greenkeeper.io/)
+
 Run this project:
 
 ```
